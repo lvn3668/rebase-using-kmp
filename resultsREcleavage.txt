@@ -1,0 +1,7 @@
+NAME:Asp10I 
+CUTS ON THE FWD strand at 0 positions upstream
+ CUTS ON THE REV STRAND AT 0 positions upstream 
+PATTERN is ? 
+CUTS ON THE FORWARD STRAND AT 0 positions downstream 
+CUTS ON THE REVERSE STRAND AT 0 positions downstream 
+CUTS at 0
