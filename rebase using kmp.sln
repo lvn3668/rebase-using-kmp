@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rebase using kmp", "rebase using kmp.vcxproj", "{D6F30898-A5E4-4D54-ADBE-90106BFE88A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6F30898-A5E4-4D54-ADBE-90106BFE88A2}.Debug|x64.ActiveCfg = Debug|x64
+		{D6F30898-A5E4-4D54-ADBE-90106BFE88A2}.Debug|x64.Build.0 = Debug|x64
+		{D6F30898-A5E4-4D54-ADBE-90106BFE88A2}.Debug|x86.ActiveCfg = Debug|Win32
+		{D6F30898-A5E4-4D54-ADBE-90106BFE88A2}.Debug|x86.Build.0 = Debug|Win32
+		{D6F30898-A5E4-4D54-ADBE-90106BFE88A2}.Release|x64.ActiveCfg = Release|x64
+		{D6F30898-A5E4-4D54-ADBE-90106BFE88A2}.Release|x64.Build.0 = Release|x64
+		{D6F30898-A5E4-4D54-ADBE-90106BFE88A2}.Release|x86.ActiveCfg = Release|Win32
+		{D6F30898-A5E4-4D54-ADBE-90106BFE88A2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5008B64F-562A-40B9-BB53-133CA2580506}
+	EndGlobalSection
+EndGlobal
